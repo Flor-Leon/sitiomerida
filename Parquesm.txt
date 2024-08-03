@@ -1,0 +1,50 @@
+<DOCTYPE html>
+
+<html>
+<head>
+<title> sitio M&eacute;rida </title>
+<meta charset="UTF-8">
+</head>
+
+<body background="imagenes/1.jpg">
+
+<center>
+<table border="1" width="80%">
+<tr>
+<td colspan="5" width="100%" height="120px" bgcolor="Red">
+<font size="8" color="Black" face="Bell MT"><b><center> Visita M&eacute;rida </center></font>
+</td></b>
+</td>
+<tr>
+<td width="20%" bgcolor="White"><a href="Parques.html"><center> <font size="6" font color="Brown" face="Bell MT">Parques </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Gastronomia.html"><center><font size="6" font color="Brown" face="Bell MT"> Gastronom&iacute;a </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="ArqueologÃ­a.html"><center><font size="6" font color="Brown" face="Bell MT"> Arqueolog&iacute;a </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Museos.html"><center><font size="6" font color="Brown" face="Bell MT"> Museos </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Plazas.html"><center><font size="6" font color="Brown" face="Bell MT"> Plazas </a></td></center></font>
+</tr>
+
+<tr>
+<td colspan="5" width="100%" height="60px" bgcolor="white"><font size="5" font color="black" face="Bell MT"><center> 
+MÃ©rida cuenta con diversos parques coloniales en el centro histÃ³rico, muchos de ellos uno puede encontrar diversos eventos culturales, restaurantes, iglesias y puestos de artesanÃ­as con una gran variedad de ellas. 
+Encontramos en el centro histÃ³rico las siguientes: <p>
+
+Plaza Grande. <p>
+Santa LucÃ­a. <p>
+Santiago. <p>
+Santa Ana.<p>
+Mejorada.<p>
+ </td>
+</tr>
+<tr>
+<center>
+<br>
+<p>
+<td colspan="5" width="100%" height="440px" bgcolor="white">
+<center><img src="imagenes/2.jpg" width="40%" height="60%"></center>
+<p>
+<a href="Sitio.html"><b> REGRESAR </b></a> 
+<p>
+<br>
+</td>
+</td>
+</br>

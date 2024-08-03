@@ -1,0 +1,49 @@
+<DOCTYPE html>
+
+<html>
+<head>
+<title> sitio M&eacute;rida </title>
+<meta charset="UTF-8">
+</head>
+
+<body background="imagenes/1.jpg">
+
+<center>
+<table border="1" width="80%">
+<tr>
+<td colspan="5" width="100%" height="120px" bgcolor="Red">
+<font size="8" color="Black" face="Bell MT"><b><center> Visita M&eacute;rida </center></font>
+</td></b>
+</td>
+<tr>
+<td width="20%" bgcolor="White"><a href="Parques.html"><center> <font size="6" font color="Brown" face="Bell MT">Parques </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Gastronomia.html"><center><font size="6" font color="Brown" face="Bell MT"> Gastronom&iacute;a </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Arqueología.html"><center><font size="6" font color="Brown" face="Bell MT"> Arqueolog&iacute;a </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Museos.html"><center><font size="6" font color="Brown" face="Bell MT"> Museos </a></td></center></font>
+<td width="20%" bgcolor="white"><a href="Plazas.html"><center><font size="6" font color="Brown" face="Bell MT"> Plazas </a></td></center></font>
+</tr>
+
+<tr>
+<td colspan="5" width="100%" height="60px" bgcolor="white"><font size="5" font color="black" face="Bell MT"><center> 
+Mérida como toda capital contempóranea ofrece una gran variedad de museos, desde museos que guardan la historia de la ciudad hasta museos modernos con grandes servicios.
+Te presentamos algunos que no debes perderte:<p>
+Museo Fernando García Ponce (Macay).<p>
+Museo De La Ciudad.<p>
+Museo De Arte Popular.<p>
+Museo De La Canción Yucateca.<p>
+Gran Museo Del Mundo Maya. <p>
+</td>
+</tr>
+<tr>
+<center>
+<br>
+<p>
+<td colspan="5" width="100%" height="440px" bgcolor="white">
+<center><img src="imagenes/0.jfif" width="40%" height="60%"></center>
+<p>
+<a href="Sitio.html"><b> REGRESAR </b></a>
+<p>
+<br>
+</td>
+</td>
+</br>
